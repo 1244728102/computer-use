@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "computer-use": {
+      "command": "python",
+      "args": [
+        "-u",
+        "C:/Users/12447/.gemini/config/plugins/computer-use/server/server.py"
+      ],
+      "tools": {
+        "computer": { "eager": true },
+        "computer_batch": { "eager": true },
+        "ui_elements": { "eager": true },
+        "open_application": { "eager": true },
+        "windows": { "eager": true },
+        "clipboard": { "eager": true },
+        "switch_display": { "eager": true },
+        "request_access": { "eager": true },
+        "list_granted_applications": { "eager": true },
+        "app_skill": { "eager": true }
+      }
+    }
+  }
+}
