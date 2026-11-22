@@ -1,0 +1,15 @@
+{
+  "accessMode": "per-app",
+  "blockedApps": [],
+  "overlay": true,
+  "overlayLabel": "Antigravity",
+  "cardOpacity": 90,
+  "maxLongEdge": 1440,
+  "maxPixels": 1200000,
+  "jpegQuality": 82,
+  "autoScreenshot": true,
+  "settleMs": 300,
+  "pauseOnUserInput": true,
+  "userIdleMs": 1200,
+  "typingMode": "stream"
+}
