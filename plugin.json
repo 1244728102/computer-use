@@ -1,0 +1,16 @@
+{
+  "name": "computer-use",
+  "displayName": "Windows 电脑操控 (Computer Use)",
+  "version": "1.0.0",
+  "description": "Windows 桌面电脑控制插件：截图、鼠标、键盘、UI Automation 控件定位、窗口与剪贴板管理，支持按应用授权、橙色光晕提示与 Esc 暂停。",
+  "logo": "assets/icon.svg",
+  "author": {
+    "name": "1244728102 (爱哭的伊蕾娜)"
+  },
+  "repository": "https://github.com/1244728102/computer-use",
+  "suggestedPrompts": [
+    "打开计算器，算 1234 × 5678，然后读出结果",
+    "打开记事本，把今天的三条待办写进去并保存到桌面",
+    "查看当前打开的窗口并整理最小化状态"
+  ]
+}
